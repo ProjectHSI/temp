@@ -1,0 +1,2 @@
+Buckshot[[:space:]]Roulette.exe filter=lfs diff=lfs merge=lfs -text
+goldenscr.png filter=lfs diff=lfs merge=lfs -text
